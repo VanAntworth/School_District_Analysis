@@ -7,8 +7,10 @@
 
 
 How is the district summary affected?
+The district summary was affected negatively as the overall passing score decreased. The passing math score seeing a larger decrease in passing percentage.
 
 How is the school summary affected?
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -22,13 +24,6 @@ Scores by school size
 
 Scores by school type
 
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis
-
-Results:
 
 
 
