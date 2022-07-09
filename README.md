@@ -1,16 +1,17 @@
 # School_District_Analysis
 
-Perfored analysis to find key metrics in performance for the school district. Now repeating the school district analysis that was peformed in module and reporting how these changes affected the overall analysis.
+Performed analysis to find key metrics in performance for the school district. Now repeating the school district analysis that was peformed in module and reporting how these changes affected the overall analysis.
 
 
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
-<img width="868" alt="Screen Shot 2022-07-08 at 9 51 11 PM" src="https://user-images.githubusercontent.com/99001393/178089382-b3503d64-2cd1-4963-b88c-8aac7dbf6564.png">
+
+Original Summary from PyCity School Module Analysis
 
 
-
+<img width="977" alt="Screen Shot 2022-07-09 at 6 59 27 PM" src="https://user-images.githubusercontent.com/99001393/178126313-12214555-0287-4556-bb59-986d46437fa0.png">
 
 
 
@@ -18,7 +19,10 @@ How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-How does replacing the ninth-grade scores affect the following:
+
+
+How does replacing the ninth-grade scores affect the following:<img width="868" alt="image" src="https://user-images.githubusercontent.com/99001393/178126218-26c01cde-1014-4f8b-ac6e-7543c63e5adc.png">
+
 
 * Math and reading scores by grade
 * Scores by school spending
