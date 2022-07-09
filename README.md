@@ -1,57 +1,27 @@
 # School_District_Analysis
-## Overview of the school district analysis
 
-We worked in assisting Maria in accessing the following deliverables from the data provided:
-
-  Top 5 and bottom 5 performing schools, based on the overall passing rate
-  The average math score received by students in each grade level at each school
-  The average reading score received by students in each grade level at each school
-  School performance based on the budget per student
-  School performance based on the school size 
-  School performance based on the type of school
-
-### A high-level snapshot of the district's key metrics, presented in a table format
-
-* Total number of students
-* Total number of schools
-* Total budget
-* Average math score
-* Average reading score
-* Percentage of students who passed math
-* Percentage of students who passed reading
-* Overall passing percentage
+Perfored analysis to find key metrics in performance for the school district. Now repeating the school district analysis that was peformed in module and reporting how these changes affected the overall analysis.
 
 
 
-## Further Analysis Provided:
-
-Evidence of academic dishonesty; the reading and math grades for Thomas High School ninth graders appeared to have been altered. Scores for this schools 9th grade scores were removed and replaced with NaN
-
-
-
+Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+<img width="868" alt="Screen Shot 2022-07-08 at 9 51 11 PM" src="https://user-images.githubusercontent.com/99001393/178089382-b3503d64-2cd1-4963-b88c-8aac7dbf6564.png">
+
+
+
 
 
 
 How is the school summary affected?
 
-
-
-
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
-
-Scores by school spending
-
-Scores by school size
-
-Scores by school type
-
-
-
-
-
+* Math and reading scores by grade
+* Scores by school spending
+* Scores by school size
+* Scores by school type
+* Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
