@@ -59,8 +59,17 @@ How does replacing the ninth-grade scores affect the following:
 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-The biggest significance seen was the passing rate for THS which went from 91 to 65 percent.
+
+
+THS was no longer in top 5 schools in district
+
+original
+
+<img width="1044" alt="Screen Shot 2022-07-09 at 8 46 54 PM" src="https://user-images.githubusercontent.com/99001393/178128144-cfead740-65e4-40a9-8e11-cf800b5505db.png">
 
 
 
+
+Averages for math and reading scores for THS saw changes.
+CHarter school lost points in passing percentages as they were very high initially 
 
