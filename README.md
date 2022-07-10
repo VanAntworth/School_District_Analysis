@@ -4,14 +4,11 @@ Performed analysis to find key metrics in performance for the school district. N
 
 
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+Results: 
 
 How is the district summary affected?
 
-Original Summary from PyCity School Module Analysis
-
-
-
+The overall summary is insignificantly affected by the removal of THS 9th grade scores as seen above.
 
 Updated District Summary (9th Grade Removed)
 
@@ -23,7 +20,8 @@ Updated District Summary (9th Grade Removed)
 How is the school summary affected?
 
 
-The overall summary is insignificantly affected by the removal of THS 9th grade scores as seen above. With the two summaries to compare.
+The school summary is 
+
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -58,6 +56,10 @@ How does replacing the ninth-grade scores affect the following:
 
 
 <img width="816" alt="Screen Shot 2022-07-09 at 7 12 10 PM" src="https://user-images.githubusercontent.com/99001393/178126550-50f0a06b-fa7b-47e9-a232-09d9cb1277ef.png">
+
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+The biggest significance seen was the passing rate for THS which went from 91 to 65 percent.
 
 
 
