@@ -36,7 +36,7 @@ How does replacing the ninth-grade scores affect the following:
 
 
 
-<img width="425" alt="Screen Shot 2022-07-09 at 7 21 19 PM" src="https://user-images.githubusercontent.com/99001393/178126709-62a397fe-f447-4acb-9033-c72dcee701c8.png">
+
 
 <img width="409" alt="Screen Shot 2022-07-09 at 7 21 45 PM" src="https://user-images.githubusercontent.com/99001393/178126717-3eb9594d-6f21-4d45-969b-3f9193d6b35d.png">
 
