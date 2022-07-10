@@ -19,13 +19,11 @@ Updated District Summary (9th Grade Removed)
 
 How is the school summary affected?
 
-
-The school summary is 
-
+Overall negatively
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-
+It still ranks higher than the average school
 
 How does replacing the ninth-grade scores affect the following:
 
