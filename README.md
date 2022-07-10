@@ -42,6 +42,11 @@ How does replacing the ninth-grade scores affect the following:
 
 * Scores by school spending
 
+
+*Original
+<img width="1009" alt="Screen Shot 2022-07-09 at 8 57 24 PM" src="https://user-images.githubusercontent.com/99001393/178128349-f218e647-15a0-4f1c-b673-b5a09cbd89f2.png">
+
+*Updated
 <img width="883" alt="Screen Shot 2022-07-09 at 7 11 23 PM" src="https://user-images.githubusercontent.com/99001393/178126535-4c8e2674-c85f-4833-9cf8-73f7f3f180a9.png">
 
 
@@ -61,15 +66,8 @@ Summarize four major changes in the updated school district analysis after readi
 
 
 
-THS was no longer in top 5 schools in district
-
-original
-
-<img width="1044" alt="Screen Shot 2022-07-09 at 8 46 54 PM" src="https://user-images.githubusercontent.com/99001393/178128144-cfead740-65e4-40a9-8e11-cf800b5505db.png">
-
-
-
 
 Averages for math and reading scores for THS saw changes.
-CHarter school lost points in passing percentages as they were very high initially 
+Charter school lost points in passing percentages as they were very high initially.
+
 
